@@ -2,7 +2,9 @@
     text-align: start !important;
 }
 
-.navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-item {
+.navbar-custom .navbar-brand, 
+  .navbar-custom .navbar-nav .nav-item,
+  .navbar-custom .navbar-nav .nav-link {
     font-weight: 600 !important;
     text-transform: none !important;
     font-size: inherit !important;
